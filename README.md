@@ -23,9 +23,11 @@ The website will consist of 6 pages:
 - Streamlined Booking: Facilitate seamless travel planning and booking through a user-friendly interface, offering a range of options from accommodations to activities.
 
 - Community Engagement:Foster a community of passionate travelers by encouraging user-generated content, travel stories, and interactive features such as forums and comments.
+
 7. Target Audience
 - Explora Xpo targets a diverse audience of travel enthusiasts, ranging from young backpackers seeking adventure to families planning vacations, and business professionals looking for convenient and efficient travel solutions. The content will cater to both novice and experienced travelers, providing a one-stop platform for all their travel needs.By combining a visually appealing design, intuitive user interface, and valuable content, Explora Xpo aims to become a go-to destination for individuals 
 passionate about exploring the world.
+
 
 
 
